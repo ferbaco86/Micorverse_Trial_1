@@ -7,3 +7,38 @@
     margin-right: auto;
     display: block;
 }
+
+#title
+{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-size: 70px;
+    
+}
+
+#tribute-info
+{
+  font: Arial;
+  font-size: 24px;
+  text-align: justify;
+  padding: 50px;
+
+}
+
+#img-caption
+{
+  font-style: italic;
+  padding-right: 70px;
+  padding-left: 70px;
+  padding-top: 10px;
+
+}
+
+#tribute-link
+{
+  margin: 50px;
+  text-align: center;
+  display: block;
+  font-size: 50px;
+}
